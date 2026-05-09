@@ -375,7 +375,7 @@ function App() {
     links.find((link) => link.key === key),
   ).filter((link): link is (typeof links)[number] => Boolean(link));
   const secondaryLinks = links.filter(
-    (link) => link.key === 'github' || link.key === 'website',
+    (link) => link.key === 'github',
   );
 
   return (
