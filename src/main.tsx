@@ -254,6 +254,7 @@ function App() {
   const photos = content.assets.photos;
   const nextEventInfo = useMemo(getNextEventInfo, []);
   const nextEventStart = nextEventInfo.start;
+  const currentYear = new Date().getFullYear();
   const nextEventNumber = useMemo(
     () => formatEventNumber(nextEventInfo.number, language),
     [nextEventInfo.number, language],
@@ -614,7 +615,7 @@ function App() {
       </section>
 
       <footer>
-        © {t.siteName} 2024-2026 / {t.footerSuffix}
+        © {t.siteName} 2023-{currentYear} / {t.footerSuffix}
       </footer>
 
       {selectedPhotoIndex !== null && (
