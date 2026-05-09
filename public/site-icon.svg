@@ -1,0 +1,9 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="32" fill="#FFF7EE"/>
+  <path d="M33 78C24.7 78 18 71.3 18 63C18 55.2 24 48.8 31.6 48.1C35 38.1 44.4 31 55.5 31C66.8 31 76.4 38.4 79.6 48.6C81.5 48.2 83.6 48 85.7 48C99.1 48 110 58.9 110 72.3C110 85.7 99.1 96.6 85.7 96.6H40.4C32.8 96.6 26.6 90.4 26.6 82.8C26.6 81.1 26.9 79.5 27.5 78H33Z" fill="#FCE3D5"/>
+  <path d="M38 81C30.3 81 24 74.7 24 67C24 59.7 29.6 53.7 36.8 53.1C40 43.8 48.8 37 59.2 37C69.9 37 78.9 44.1 81.9 53.8C83.7 53.4 85.6 53.2 87.5 53.2C100 53.2 110.2 63.4 110.2 75.9C110.2 88.4 100 98.6 87.5 98.6H45C37.9 98.6 32.1 92.8 32.1 85.7C32.1 84.1 32.4 82.5 33 81H38Z" fill="#FFEDE4" stroke="#EE806F" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M45 74C45 66.8 50.8 61 58 61H72C79.2 61 85 66.8 85 74V77C85 84.2 79.2 90 72 90H58C50.8 90 45 84.2 45 77V74Z" fill="#6B5BEA"/>
+  <path d="M55 70V82M49 76H61" stroke="white" stroke-width="5" stroke-linecap="round"/>
+  <path d="M73 73H73.1M79 79H79.1" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <path d="M49 44L44 33M71 43L78 32" stroke="#EE806F" stroke-width="5" stroke-linecap="round"/>
+</svg>

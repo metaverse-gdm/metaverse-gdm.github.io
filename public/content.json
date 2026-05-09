@@ -1,0 +1,16 @@
+{
+  "assets": {
+    "host": "/characters/uyu-host.png",
+    "photos": [
+      "/screenshots/meetup-2026-01-18.webp",
+      "/screenshots/meetup-2025-11-09.webp",
+      "/screenshots/meetup-2024-11-10.webp"
+    ]
+  },
+  "urls": {
+    "discord": "https://discord.gg/Mes3nP3mZt",
+    "vrchatGroup": "https://vrc.group/GAME.2515",
+    "website": "https://metaverse-gdm.github.io/ja/",
+    "github": "https://github.com/metaverse-gdm"
+  }
+}
